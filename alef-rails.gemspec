@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Alef::Rails::VERSION
   spec.authors       = ["David Elentok"]
   spec.email         = ["3david@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{the Alef font bundled as an asset for the rails asset pipeline (http://alef.hagilda.com/)}
+  spec.summary       = %q{the Alef font bundled as an asset for the rails asset pipeline (http://alef.hagilda.com/)}
   spec.homepage      = ""
   spec.license       = "MIT"
 
