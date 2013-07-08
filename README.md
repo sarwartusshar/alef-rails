@@ -1,4 +1,4 @@
-# Alef
+# alef-rails
 
 TODO: Write a gem description
 
@@ -6,7 +6,7 @@ TODO: Write a gem description
 
 Add this line to your application's Gemfile:
 
-    gem 'alef'
+    gem 'alef-rails'
 
 And then execute:
 

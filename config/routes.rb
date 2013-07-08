@@ -1,2 +1,2 @@
-Alef::Engine.routes.draw do
+Alef::Rails::Engine.routes.draw do
 end

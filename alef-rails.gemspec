@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'alef/version'
+require 'alef/rails/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "alef"
-  spec.version       = Alef::VERSION
+  spec.name          = "alef-rails"
+  spec.version       = Alef::Rails::VERSION
   spec.authors       = ["David Elentok"]
   spec.email         = ["3david@gmail.com"]
   spec.description   = %q{TODO: Write a gem description}
