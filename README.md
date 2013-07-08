@@ -1,6 +1,7 @@
 # alef-rails
 
-TODO: Write a gem description
+alef-rails provides the [Alef](http://alef.hagilda.com/) web font as a Rails
+engine for use with the asset pipeline.
 
 ## Installation
 
